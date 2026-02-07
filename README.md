@@ -55,30 +55,21 @@ The dashboard provides an intuitive interface with:
 
 ## Technologies Used
 
-*[Add your specific tech stack here, for example:]*
 - HTML5
 - CSS3
 - JavaScript
 - React / Vue / Angular (specify your framework)
 -  **DummyJSON API** - Used to fetch initial list of users (https://dummyjson.com/users)
 
-## Installation
+## Live Demo
 
-*[Add installation instructions based on your project setup]*
+ **[View Live Demo](https://users-dashboard-trcc.vercel.app/)**
 
-```bash
-# Clone the repository
-git clone [repository-url]
+## Source Code
 
-# Navigate to project directory
-cd users-dashboard
+ **[View Source Code on GitHub](https://github.com/deepthi2607/UsersDashboard)**
 
-# Install dependencies
-npm install
-
-# Run the application
-npm start
-```
+---
 
 ## Usage
 
@@ -95,5 +86,4 @@ npm start
 - Pagination for large user lists
 - Export user data
 - User roles and permissions
-
 - Bulk operations
