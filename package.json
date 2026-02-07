@@ -16,6 +16,7 @@
     "typescript": "5.7.2"
   },
   "scripts": {
+    "preinstall": "npm config set legacy-peer-deps true",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
